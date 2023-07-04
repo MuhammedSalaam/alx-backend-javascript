@@ -611,6 +611,6 @@ GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 100-evcar.js
     
-Copyright © 2023 ALX, All rights reserved.
+Copyright © 2023 ALX, All rights reserved
 
 
